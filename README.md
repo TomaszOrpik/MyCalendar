@@ -1,4 +1,4 @@
-# MyCalendar (README NOT FINAL)
+# MyCalendar (NOT FINAL)
  Window Form based calendar for Windows
  
 # Introduction
